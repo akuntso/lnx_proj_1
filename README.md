@@ -2,7 +2,7 @@
 
 ## Installation Instructions
 
-### Step 1: Generate the configuration script (--install key already containts the aclocal and ### automake --add-missing commands)
+### Step 1: Generate the configuration script (--install key already containts the aclocal and automake --add-missing commands)
 ```sh
 autoreconf --install
 ```
